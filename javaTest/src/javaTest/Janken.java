@@ -21,6 +21,7 @@ public class Janken {
 			}else {
 				System.out.println("player1の負けです");
 				System.out.println("player2の勝ちです");
+
 			}
 
 			scan.close();
